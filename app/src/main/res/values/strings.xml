@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">edittext</string>
+    <string name="details">Details</string>
+    <string name="name">Name</string>
+    <string name="name1">Name :</string>
+    <string name="roll_no">Roll No :</string>
+    <string name="login">Login</string>
+    <string name="hello">Hello</string>
+    <string name="hello_student">Hello Student</string>
+    <string name="name2">NAME :</string>
+    <string name="roll1">ROLL :</string>
+    <string name="hello_image">hello image</string>
+    <string name="good">Good</string>
+    <string name="bad">Bad</string>
+    <string name="average">Average</string>
+    <string name="excellent">Excellent</string>
+    <string name="outstanding">outstanding</string>
+    <string name="left_top_corner">left Top Corner</string>
+    <string name="top_right">Top Right</string>
+    <string name="left_bottom">Left Bottom</string>
+    <string name="center_bottom">Center Bottom</string>
+    <string name="right_bottom">Right Bottom</string>
+    <string name="center">Center</string>
+    <string name="image_center">image center</string>
+    <string name="top_center">Top Center</string>
+    <string name="geo_mathew">Geo Mathew</string>
+    <string name="geo">GEO</string>
+    <string name="gopi">gopi</string>
+    <string name="next_page">Next Page</string>
+    <string name="todo">TODO</string>
+</resources>
